@@ -92,13 +92,9 @@ After completing the above steps, I created the following fact and dimension tab
 
 ## Step 2: Storage
 
-<img width="1436" alt="image" src="https://github.com/katiehuangx/data-engineering/assets/81607668/b776b804-a871-4a72-b1e5-b38b6d194bf3">
-
 ## Step 3: ETL / Orchestration
 
 1. Begin by launching the SSH instance and running the following commands below to install the required libraries.
-
-<img width="1436" alt="Screenshot 2023-09-03 at 4 10 39 PM" src="https://github.com/katiehuangx/data-engineering/assets/81607668/1bd9af4c-61aa-4ea5-a485-81b6a6b5d446">
 
 ```python
 # Install python and pip 
